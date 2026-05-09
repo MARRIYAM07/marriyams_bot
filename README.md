@@ -14,7 +14,7 @@ Featured Project
 
 ## What is this?
 
-**Marriyam's Bot** is a fully custom RAG (Retrieval-Augmented Generation) powered chatbot embedded directly on my portfolio. Visitors can ask it anything — my projects, skills, background, or internship availability — and it responds with accurate, grounded answers pulled from my personal knowledge base.
+**Marriyam's Bot** is a fully custom RAG (Retrieval-Augmented Generation) powered chatbot embedded directly on my portfolio. Visitors can ask it anything, my projects, skills, background, or internship availability — and it responds with accurate, grounded answers pulled from my personal knowledge base.
 
 No hallucinations. No made-up answers. Just real information, retrieved intelligently.
 
